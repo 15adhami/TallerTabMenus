@@ -62,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Source\Patches.cs" />
-    <Compile Include="Source\TallerMenus.cs" />
+    <Compile Include="Source\TallerTabMenus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
