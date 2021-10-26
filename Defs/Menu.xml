@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<XmlExtensions.SettingsMenuDef>
+		<defName>TallerTabMenus_Menu</defName>
+		<modId>imranfishnikos.tallertabmenus</modId>
+		<label>Taller Tab Menus</label>
+		<settings>
+			<li Class="XmlExtensions.Setting.Slider">
+				<key>storage_height</key>
+				<defaultValue>600</defaultValue>
+				<label>Storage tab height: {storage_height} Vanilla: 480</label>
+				<min>300</min>
+				<max>1000</max>
+				<decimals>0</decimals>
+			</li>
+		</settings>
+	</XmlExtensions.SettingsMenuDef>
+</Defs>

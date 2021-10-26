@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Taller Tab Menus</name>
+	<author>Imranfish</author>
+  	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+        <packageId>imranfish.xmlextensions</packageId>
+		<displayName>XML Extensions</displayName>
+		<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2574315206</steamWorkshopUrl>
+    </li>
+	</modDependencies>
+	<loadAfter>
+		<li>imranfish.xmlextensions</li>
+	</loadAfter>
+	<packageId>imranfishnikos.tallertabmenus</packageId>
+	<description>Increases the height of tab menus. Allows you to see more of the menu at once, and take advantage of higher resolutions. Currently only increases the height of the storage tabs for stockpile zones. Adjustable in the settings.</description>
+</ModMetaData>
