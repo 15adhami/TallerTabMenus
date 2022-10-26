@@ -18,6 +18,7 @@ namespace TallerTabMenus
 			}
 		}
 
+		/*
 		[HarmonyPatch(typeof(ITab_Pawn_Health), "FillTab")]
 		internal static class Patch_ITab_Pawn_Health
 		{
@@ -26,5 +27,6 @@ namespace TallerTabMenus
 				___size.y = float.Parse(SettingsManager.GetSetting("imranfishnikos.tallertabmenus", "pawn_health_height"));
 			}
 		}
+		*/
 	}
 }

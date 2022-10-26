@@ -13,14 +13,6 @@
 				<max>1000</max>
 				<decimals>0</decimals>
 			</li>
-            <li Class="XmlExtensions.Setting.Slider">
-				<key>pawn_health_height</key>
-				<defaultValue>600</defaultValue>
-				<label>Pawn health tab height: {pawn_health_height} Vanilla: 430</label>
-				<min>300</min>
-				<max>1000</max>
-				<decimals>0</decimals>
-			</li>
             <li Class="XmlExtensions.Setting.ResetSettings"/>
 		</settings>
 	</XmlExtensions.SettingsMenuDef>
